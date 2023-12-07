@@ -1,0 +1,2 @@
+Ogrenci Adı: Mert , Ogrenci Soyadı: Can, Ogrenci No: 651253, Ogrenci Ders: Matematij
+Ogrenci Adı: Mert , Ogrenci Soyadı: Can, Ogrenci No: 651253, Ogrenci Ders: Kimya
